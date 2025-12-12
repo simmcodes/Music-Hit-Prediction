@@ -1,0 +1,151 @@
+index,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+78859,7gzdjkagK3pTVW8jYjcYBF,Micha von der Rampe,Partyanimal,Partyanimal,64,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+91411,1ihSSnA4d0dcxQouy7gtNJ,Juanes,Retro Baladas,Es Por Ti,0,251120,False,0.694,0.761,4,-6.066,1,0.0263,0.176,3.63e-05,0.123,0.866,129.953,4,rock
+28136,0ntQOeCxfO9wuGJXFv5D6d,MYRNE;JPB;Yung Fusion,Feels Right (Radio Edit),Feels Right,49,199187,False,0.447,0.948,9,-2.503,0,0.307,0.053,8.68e-05,0.882,0.677,89.928,4,dub
+104521,6xRglH0lCDxiHEjbDRxT3v,Natos y Waor;Recycled J,Luna llena,Hasta que salga el sol,59,247000,False,0.903,0.476,2,-8.298,1,0.0532,0.00193,0.0343,0.285,0.825,119.974,4,spanish
+33740,3DLPg2D9Q6XZ4RlUU9B00r,PXNDX,Bonanza,"Ilusión, Oh ilusión",36,291280,False,0.345,0.622,8,-5.065,1,0.0293,0.0272,0.000155,0.0942,0.429,147.943,4,emo
+10136,56jlrdCvA7Ih13L9OMcfDS,Propellerheads;Shirley Bassey,Decksandrumsandrockandroll 20th anniversary,History Repeating - Knee Length Mix,52,242533,False,0.717,0.829,10,-5.432,0,0.0367,0.00261,0.0147,0.106,0.729,144.04,4,breakbeat
+52626,3phaRmdQXoC0UqSnM4EBrI,The Dirt Drifters,This Is My Blood,Sun Goes Down,12,231080,False,0.463,0.747,7,-4.651,1,0.033,0.00983,0.000787,0.423,0.201,138.574,4,honky-tonk
+5626,0YFvHkxJVGYLioe26UH7xv,Kato,Attack on Titan Vibes,Youseebiggirl/T:t,45,112299,False,0.242,0.49,9,-11.905,0,0.0641,0.756,0.784,0.0719,0.275,38.281,4,anime
+75740,3JBxa7RgpzPuY2Tsp8OH9F,Clannad,Banba,Banba Oir - Remastered,22,206746,False,0.458,0.623,10,-13.421,0,0.0295,0.596,0.111,0.115,0.615,160.308,4,new-age
+24521,0OJ832WC1epHirYTRBgJ9Z,Octave One;Ann Saunderson,Burn It Down,Jazzo/Lose Myself - Original Mix,5,402796,False,0.845,0.539,9,-5.687,1,0.0447,0.0112,0.0194,0.059,0.587,124.975,4,detroit-techno
+90513,73BIHNAuJtxFTbuRK2y2sG,Ramon Marquez,Lo Mejor Para Bailar Con Ramón Márquez,Clases De Cha Cha Chá,32,185817,False,0.78,0.789,8,-7.956,1,0.049,0.842,0.0,0.0612,0.887,128.795,4,rock-n-roll
+8626,1Ta6e4rjUBexrZ6SQkCNPF,Jesper Munk,Head In The Clouds,Head In The Clouds,36,228905,False,0.594,0.384,5,-11.796,1,0.0418,0.861,0.575,0.126,0.462,77.823,4,blues
+73737,676Oa6y0HElaXvynyUu9im,Alec Troniq,Ipoly Mate 003,At What Cost,19,419091,False,0.803,0.448,1,-10.967,0,0.0574,0.00753,0.208,0.111,0.338,121.013,4,minimal-techno
+77740,0ONoYJqSkvUFp2wmNvH2kW,Zeca Pagodinho;Xande De Pilares,Mais Feliz,Dependente Do Amor,44,224376,False,0.694,0.566,11,-11.181,0,0.0637,0.271,0.0,0.215,0.887,90.049,4,pagode
+103859,3Zcv9IeYgCvEhxFTfsduaQ,88GLAM,88GLAM2,Lil Boat,63,180813,True,0.764,0.672,6,-4.274,0,0.0655,0.0166,1.06e-06,0.103,0.594,150.021,4,soul
+90136,2u1NjJFN4emN0o6AJHogGU,Ike & Tina Turner,60s Christmas Party,River Deep - Mountain High,0,215720,False,0.377,0.763,3,-6.866,1,0.0387,0.777,0.00125,0.157,0.302,83.267,4,rock-n-roll
+44678,49t1GWE6ZiEoBgN92oMDdM,Hole,Live Through This,Doll Parts,60,211960,False,0.245,0.542,7,-7.159,1,0.0324,0.147,4.05e-06,0.102,0.365,204.824,4,grunge
+82411,0IjjGQAWS5Xnlp0lHnd3Ko,The Lemonheads,Varshons 2,Things,23,165720,False,0.416,0.606,6,-8.296,0,0.0286,0.0667,0.00357,0.12,0.583,147.178,4,power-pop
+61660,1M03pPTmDxCe6PuYTOWY9m,Akina Nakamori,コンプリート・シングル・コレクションズ〜ファースト・テン・イヤーズ<ライノ・プレミアム・エディション>,少女A,20,213813,False,0.588,0.79,0,-5.651,1,0.0449,0.00518,7.9e-05,0.0374,0.655,145.916,4,j-idol
+42136,1jUhGlGqCa3fQAAlAA9c8x,Insult,Emobashing Fastcore Pimps,External,17,59600,False,0.209,0.981,6,-5.707,0,0.163,8.97e-05,0.16,0.225,0.369,95.861,4,grindcore
+10737,2WC9rDC7aw6bzsA9ZwRVqx,Amb,Blood in Blood Out,Right Now,11,194026,False,0.816,0.701,2,-5.911,1,0.368,0.126,0.0,0.29,0.734,93.963,4,breakbeat
+71513,2gscB6kDOmrv1P6qs2KXE3,Slipknot,Slipknot (10th Anniversary Edition),Wait and Bleed,73,147840,False,0.382,0.996,7,-4.119,1,0.104,0.00208,0.0,0.417,0.327,93.345,4,metal
+97737,2eI1OQTaBJFwmQEEYfy9OU,Calcinha Preta,"Calcinha Preta, Vol. 13 (Ao Vivo)",Declaração de Amor (Ao Vivo),46,198426,False,0.546,0.864,0,-1.314,1,0.0293,0.142,0.0,0.825,0.535,149.785,4,sertanejo
+15626,0o9t52kMt1yNHE0IDmdu43,Skinny Atlas;Laeland;Snøw,summer nights,summer nights,54,172137,False,0.521,0.523,6,-7.621,1,0.0362,0.233,0.0,0.403,0.343,145.156,4,chill
+15859,5siP3no83iDXF2uskNj14a,demxntia,compilation I,ocean of stars,44,237466,False,0.629,0.714,5,-9.183,0,0.209,0.515,0.000129,0.109,0.596,159.952,4,chill
+4411,5rpw2ag9jizRl9VdaLNT61,Tony Anderson,Spiriteaux,Spiriteaux,50,234000,False,0.233,0.0358,0,-28.579,0,0.0373,0.946,0.878,0.108,0.0396,117.497,3,ambient
+42411,4F237kCyNFJq1z6X7QMLVK,Agathocles,Theatric Symbolisation of Life,Kill Your Fucking Idols,15,211213,True,0.223,0.907,7,-8.502,0,0.0657,5.47e-06,0.676,0.0613,0.268,101.825,4,grindcore
+29521,6EnHdhpdycjPxayoU5VAU9,MYRNE,What Can I Do,What Can I Do,38,256000,False,0.518,0.812,7,-7.155,1,0.0503,0.215,0.00752,0.144,0.0753,119.968,4,dubstep
+27678,4gzpnqZiNAX35p7bA6dBug,Ed Solo;Deekline;Rubi Dan,"Jungle Cakes, Vol. 19",Zunga,17,272228,False,0.606,0.956,10,-1.643,0,0.0368,0.000866,0.0407,0.0407,0.624,87.498,4,drum-and-bass
+9626,2lMiPTcmvli4i8NfHIB4UO,Jota Quest,Acústico Jota Quest,O Que Eu Também Não Entendo - Acústico,46,255686,False,0.632,0.595,2,-9.555,1,0.0335,0.366,1.6e-06,0.107,0.368,108.002,4,brazil
+11660,4H3KBBAe2Fcgv9lH6E10Oe,Patrick Doyle,Harry Potter And The Goblet Of Fire (Original Motion Picture Soundtrack),Harry in Winter,55,174440,False,0.175,0.248,11,-16.707,0,0.0423,0.559,0.966,0.189,0.0396,110.447,3,british
+49513,4lJAHAMuSCeWzuXhwfutAr,Psyko Punkz,Wietse,Dance,22,176000,True,0.51,0.801,4,-5.767,0,0.0494,0.00836,0.0,0.105,0.0912,150.02,4,hardstyle
+32737,55kDJdv7pymmG4URJlVTYR,Oliver Koletzki,The Arc of Tension,Tankwa Town,50,453506,False,0.736,0.401,7,-11.285,1,0.0476,0.102,0.293,0.0938,0.0543,100.008,4,electronic
+53660,3jbAzLVcHiI5hYSkcKe1Ty,Martin Garrix;G-Eazy;Sasha Alex Sloan,Love Runs Out (feat. G-Eazy & Sasha Alex Sloan),Love Runs Out (feat. G-Eazy & Sasha Alex Sloan),63,164166,False,0.647,0.642,9,-7.306,0,0.0743,0.262,0.0,0.134,0.48,90.045,4,house
+83136,0Gbp9aWNohZ4Kwdi75ntzT,John De Sohn;Rasmus Hagen,Made For You,Love You Better,65,170893,False,0.733,0.785,11,-7.496,1,0.0416,0.0934,0.00135,0.101,0.796,102.987,4,progressive-house
+2660,5d9RSSwDvlTyuwfmeafUah,Phil Wickham,Living Hope,Living Hope,55,327000,False,0.292,0.535,3,-6.892,1,0.0393,0.0355,0.0,0.0977,0.316,143.949,4,alt-rock
+78411,5QPMzfhQBjkBgkGQnXu83D,Honk!,Joana,Joana,29,196830,False,0.641,0.914,2,-2.207,1,0.0852,0.0956,0.0,0.00925,0.792,130.08,4,party
+52859,1mgfms0E0uJhULWwqMcqtI,Hank Williams,The Ultimate Collection,First Year Blues,11,146600,False,0.718,0.27,4,-13.928,1,0.0591,0.968,0.0,0.23,0.663,120.192,4,honky-tonk
+46737,2MqQOhpubuokVRHIQCh0m5,Neophyte,Not Enough Middle Fingers,A Way Of Life,18,326485,True,0.723,0.716,8,-11.396,1,0.0786,0.13,0.518,0.0745,0.414,167.522,4,happy
+103626,1V84nWUcaKN1j3vYvxfd5t,Rick James;Teena Marie,Un tecito y a mimir,Fire And Desire,0,436533,False,0.385,0.458,1,-9.5,1,0.0361,0.287,7.43e-05,0.108,0.136,134.673,3,soul
+29859,2zhqm7h2RiyPuG0L5cAqN7,Animadrop,Stuck in a Timeloop,Stuck in a Timeloop,41,416210,False,0.48,0.903,7,-3.262,1,0.191,0.294,0.00278,0.202,0.188,95.063,4,dubstep
+64660,29aFRSKkk2kYToZF3JgVJC,Julie London,Desayuno en calma,I'm In The Mood For Love,0,149826,False,0.58,0.0545,9,-14.594,0,0.0473,0.963,0.000265,0.0967,0.177,123.341,4,jazz
+89740,50zpoWMidTPVoCjBBNMfMP,Farina,Perreo Tenebroso Vol. 1,El Problema,0,206173,False,0.535,0.651,0,-3.612,1,0.402,0.0542,0.131,0.0751,0.515,179.795,4,reggaeton
+17859,1ylzRbRcouAgM8iZF4SqCK,DJ Flex,Amaka,Amaka,15,188844,False,0.821,0.824,5,-5.971,0,0.0334,0.412,0.871,0.11,0.692,119.006,4,club
+103660,0n4bITAu0Y0nigrz3MFJMb,Robin Thicke;T.I.;Pharrell Williams,Blurred Lines (Deluxe),Blurred Lines,76,263826,False,0.853,0.599,7,-4.756,1,0.0411,0.00334,7.93e-06,0.0759,0.843,119.993,4,soul
+27521,6U3KzIa82ZCKAROmpg7PqT,A.M.C,ENERGY,The End,18,316534,False,0.568,0.995,0,0.651,1,0.216,0.000282,0.213,0.788,0.4,172.021,4,drum-and-bass
+8859,0YZ3J8xzGwLOg4yEgST1YK,Joe Cocker,With A Little Help From My Friends,With A Little Help From My Friends,67,312173,False,0.307,0.43,2,-11.333,1,0.0629,0.288,0.000994,0.0988,0.305,145.224,3,blues
+100411,0hwZcTCXYNTY6zrpWpfmnU,Mad Caddies,Punk Rocksteady,Sorrow,34,208730,False,0.759,0.709,7,-5.392,1,0.0361,0.0912,9.76e-05,0.149,0.96,134.054,4,ska
+93626,0DbjnobMwfD3rs9zcfCjfQ,Сергей Захаров,20 золотых шедевров романса,Милая,0,159760,False,0.263,0.404,2,-8.402,1,0.0393,0.926,0.00531,0.215,0.226,82.82,1,romance
+72411,2uD8ezTUaLTtoqaXUiWPIR,Periphery,Periphery III: Select Difficulty,Lune,38,467013,False,0.488,0.851,5,-6.146,1,0.0447,0.00208,0.000501,0.0943,0.337,134.99,1,metalcore
+86737,1964zxkJByManoIYrUkSHU,Tihuana,Nova Bis - Tihuana,Tropa De Elite,39,194773,False,0.716,0.881,2,-5.879,1,0.0935,0.0434,0.0,0.0383,0.962,144.324,4,punk
+49411,3UjxmoAp5oSdz3aAh4zcgd,Noisecontrollers;Bass Modulators,Chapter One,See The Light - Radio Edit,50,206515,False,0.44,0.88,0,-5.748,1,0.0911,0.00461,3.23e-05,0.0638,0.297,149.747,4,hardstyle
+61626,1aTEygvJz9cA86mzGxJVAT,PASSEPIED,&DNA,スーパーカー,20,264453,False,0.464,0.845,10,-3.791,1,0.0371,0.145,0.0077,0.239,0.662,171.839,4,j-idol
+86859,10lP5x0csV13P1aZyLYADs,Simple Plan,Get Your Heart On! (Deluxe Edition),Last One Standing,55,207293,False,0.498,0.969,9,-3.662,1,0.0747,0.000473,0.000369,0.0627,0.509,167.116,4,punk
+112678,4wD1Vpnw2jUHs07HeAEeFt,Rota,İblisler,İblisler,39,233379,True,0.688,0.886,11,-5.435,1,0.339,0.115,0.0,0.187,0.667,144.972,4,turkish
+7521,2MgFMPG85DiVFXzO4zx3UD,Greensky Bluegrass,Handguns,Lose My Way,23,444533,False,0.585,0.573,0,-8.096,1,0.0256,0.773,0.409,0.102,0.53,109.374,4,bluegrass
+111513,6qN2alQY36EbEjpBhDP9FE,DJ Shadow,Preemptive Strike,What Does Your Soul Look Like - Pt. 2,42,831400,False,0.638,0.369,7,-12.515,0,0.0693,0.284,0.904,0.104,0.0902,141.923,4,trip-hop
+29626,46DRBgPZrFJKDHHQYIY6OG,ATLiens,Alchemy,Alchemy,51,150000,False,0.738,0.867,8,-5.249,0,0.227,0.0109,0.0825,0.213,0.366,160.066,5,dubstep
+19859,3y4LxiYMgDl4RethdzpmNe,Faith Hill,Breathe,Breathe,67,250546,False,0.529,0.496,7,-9.007,1,0.029,0.173,0.0,0.251,0.278,136.859,4,country
+54678,6zJyL9SCOdUmN6nEz33QB7,LFO,Advance,Shut Down,12,290800,False,0.521,0.978,5,-8.833,0,0.0804,0.029,0.957,0.153,0.158,137.242,4,idm
+79136,4uNG9ER2pDOayDd1Wq8Cjq,Elton John;Britney Spears;Purple Disco Machine,Hold Me Closer (Purple Disco Machine Remix),Hold Me Closer - Purple Disco Machine Remix,0,218853,False,0.692,0.842,0,-4.871,1,0.136,0.0506,1.79e-06,0.147,0.777,125.972,4,piano
+55660,7I1nwZimETiRW83xZv023W,Ritviz;Karan Kanchan,Dev,Khamoshi,47,189391,False,0.714,0.666,11,-7.944,1,0.0434,0.00451,0.0001,0.42,0.619,114.95,4,indian
+5737,7AlSUZpdxkzvHJBut5rzjn,Divide Music,Never Enough,Never Enough,52,227428,False,0.513,0.696,7,-6.533,0,0.0336,0.132,3.65e-05,0.117,0.0883,104.952,4,anime
+39859,4fkFsB17kyzq27QhOVt19V,Neptunica;Matthew Clanton,Love Is Gone,Love Is Gone,65,157894,False,0.629,0.815,7,-6.046,1,0.0683,0.016,0.000153,0.236,0.185,152.014,4,german
+113737,5FQxCrphg2xjAhNzUXRQxc,Hillsong Worship,There Is More,Lettered Love - Live,40,222733,False,0.333,0.52,0,-9.746,1,0.0315,0.182,6.28e-06,0.673,0.259,91.983,4,world-music
+57521,11BUFxLtMAVUtJaTnNK8Ey,JVKE;ILLENIUM;NURKO,golden hour (ILLENIUM & NURKO Remix),golden hour - ILLENIUM & NURKO Remix,57,201904,False,0.453,0.771,1,-4.382,0,0.0341,0.046,0.0,0.159,0.0754,126.003,4,indie
+68859,5q2JbCNi4FcnglgPfxcV65,Anuel AA;Daddy Yankee;Zion & Lennox;Farruko;Wisin,Sola (Remix),Sola (Remix),78,307910,False,0.639,0.869,11,-4.024,1,0.147,0.27,0.0,0.0802,0.767,169.801,4,latino
+41737,5xX58ok24goewnuvic3Q4m,Timo Räisänen,...And Then There Was Timo,You Shook Me All Night Long,21,240093,False,0.585,0.232,7,-10.912,1,0.0287,0.866,0.0,0.0657,0.12,135.878,4,goth
+44136,2o4AknH1hXnleCRW2rH45w,Alter Bridge,Blackbird,Blackbird,57,478133,False,0.279,0.806,6,-4.714,0,0.0448,0.00499,0.0126,0.116,0.132,149.463,3,grunge
+83660,273n4aGEPcL1HrcdhpGGul,KSHMR;NOUMENN,Around The World (feat. NOUMENN),Around The World (feat. NOUMENN),45,199017,False,0.582,0.863,5,-4.067,1,0.0356,0.0334,1.42e-05,0.371,0.333,112.073,4,progressive-house
+52513,0ql727m0Dm5hszWIsI1BwX,Hank Williams,The Immortal,Pan American,13,170800,False,0.581,0.427,4,-10.369,1,0.0325,0.734,0.000809,0.0809,0.797,85.724,4,honky-tonk
+113660,6jAAYLKxXPyeEoddXu6Gf7,Tenth Avenue North,The Struggle,Worn,50,244120,False,0.51,0.42,6,-8.014,1,0.0312,0.384,0.0,0.102,0.19,125.898,4,world-music
+73859,1qolXijooNmOF6qs5Jz7Aq,Matador;braev,Eternity,Eternity,34,416626,False,0.727,0.632,11,-9.523,0,0.0682,0.0042,0.691,0.0982,0.24,122.989,4,minimal-techno
+82740,2DGoiBUZSbprAcvGw5l1W7,Screeching Weasel,Anthem for a New Tomorrow,Every Night,23,222706,False,0.22,0.872,8,-5.388,1,0.0461,0.00048,0.000186,0.0541,0.414,177.017,4,power-pop
+42740,1xi0HFAsNfM5t0v7sFqkU2,Disfear,Misanthropic Generation,Rat Race,13,157426,True,0.319,0.993,8,-4.993,1,0.136,1.47e-06,0.151,0.405,0.259,117.598,4,grindcore
+24513,51teckQO0O1ql5D4edLdua,Octave One,Love by Machine,7 b4 Dawn - Original Mix,5,382427,False,0.836,0.798,9,-8.995,0,0.0463,0.00068,0.941,0.0739,0.925,126.006,4,detroit-techno
+75521,4TtTr61i4LVKO8mrx7KPHB,David Lanz,Return To The Heart,Improvisation: Friedensengel (Angel Of Peace),22,90026,False,0.574,0.00638,0,-31.925,1,0.0465,0.989,0.682,0.0828,0.408,116.734,4,new-age
+47859,6kAOsnRUgp21bPiUoVZeuJ,Ozzy Osbourne;Jeff Beck,Patient Number 9 (feat. Jeff Beck),Patient Number 9 (feat. Jeff Beck),61,441402,False,0.316,0.869,7,-4.244,0,0.0642,0.000197,0.199,0.133,0.302,169.916,4,hard-rock
+38859,3OtId2P71K4wGAAJk8QCIR,Royal Blood,Honeybrains,Honeybrains,58,186847,False,0.523,0.8,9,-5.243,1,0.101,0.00537,0.0,0.398,0.604,125.886,3,garage
+12859,5MH9JHCKH1Hm3ih9m9ljy8,Hins Cheung,笑忘書,騷靈情歌,45,249293,False,0.489,0.337,8,-12.972,1,0.112,0.301,0.0,0.13,0.276,179.599,4,cantopop
+29136,2yg53XBaQDtIk6hYT2VFSD,William Black;Fairlane,Broken,Broken,47,228705,False,0.49,0.828,1,-4.374,1,0.0379,0.0265,0.0,0.149,0.31,170.049,4,dubstep
+3737,4k2AjlWruIygEiZyJEy01I,Os Paralamas Do Sucesso,Acústico (Live),Tendo A Lua - Ao Vivo,51,200826,False,0.492,0.794,5,-5.823,1,0.046,0.196,2.62e-06,0.873,0.683,167.815,4,alternative
+97626,6xsEgCQbbRngiZKTyAxvkQ,João de Souza & Bonifacio,Sistema Pesado,Mete o Pé e Vaza,46,166132,False,0.749,0.775,11,-4.689,0,0.155,0.222,0.0,0.177,0.773,163.048,4,sertanejo
+69660,1xs80jiAaDBjDzROXVVVnn,Saleem,Mere Jogi Nath,Mere Jogi Nath,23,295400,False,0.673,0.922,0,-7.078,0,0.0586,0.217,2.85e-06,0.0986,0.773,100.004,4,malay
+37737,4PVDAebj5ADsLOBw1D9KbP,BIN;Azevedo;Mainstreet;Kizzy,Para todas as mulheres que já rimei,Fim de Nós 2,46,180000,False,0.582,0.467,5,-7.674,1,0.0367,0.183,0.0,0.0931,0.486,119.842,4,funk
+52660,5E0HsaeTON2ucXXArmSHNp,George Jones,Mr. Country and Western,Small Time Laboring Man,11,153862,False,0.497,0.29,4,-14.014,1,0.0284,0.914,3.33e-05,0.134,0.451,93.128,3,honky-tonk
+56859,6qr6qpP9J9YBBYsVmJFd5c,Vansire,After Fillmore County,The Latter Teens,64,221648,False,0.658,0.441,11,-10.008,0,0.0436,0.681,0.241,0.109,0.354,129.599,4,indie-pop
+52136,1e6sJSsSVQDq4ucpJ6l7cG,Ray Price,Night Life,Bright Lights and Blonde Haired Women,19,142800,False,0.639,0.28,9,-13.535,1,0.0325,0.848,0.0,0.472,0.673,117.071,4,honky-tonk
+17411,0MGkVtHqa6hp9WFaUc0fq1,Le Castle Vania,Payday,Fully Loaded Epic Win,39,187001,False,0.679,0.952,1,-2.777,1,0.0596,1.66e-05,0.686,0.515,0.175,128.033,4,club
+53411,0gn93i7HJt0calph67R5Wu,HUGEL;Amber Van Day,WTF (feat. Amber Van Day),WTF (feat. Amber Van Day),64,160686,True,0.808,0.737,11,-4.538,0,0.0526,0.0602,1.12e-06,0.704,0.865,123.985,4,house
+94521,6ue8qsdLrXbj9UDmhnYkEa,convolk,LONEWOLF,I fucked up,61,159149,True,0.645,0.708,5,-6.005,0,0.0382,0.00909,0.000356,0.115,0.282,80.503,4,sad
+112513,03u0SQvzUKRcIv7mHA3X1M,Kargo,Gelecekle Randevum Var,Kehribar,41,212323,False,0.581,0.428,7,-10.857,0,0.0254,0.374,0.00278,0.0672,0.677,88.08,4,turkish
+67521,59d6pKXq0vbneJNlfiX82Y,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,Clásicos de ahora: Perreo,La Llevo Al Cielo,0,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,latin
+14521,5yrU9jSt6hGxodbRgXaaqa,The Wiggles,Here Comes the Big Red Car,Big Red Car,31,107920,False,0.767,0.904,9,-3.443,1,0.0655,0.306,0.0096,0.0636,0.962,124.714,4,children
+54737,5SHF7U7Pg5ZqrD8jY5qwyt,Casino Versus Japan,Suicide by Sun,Lazy Girl Loop,9,137707,False,0.259,0.0691,2,-27.925,1,0.0303,0.625,0.761,0.106,0.114,66.419,3,idm
+38740,3hXMVNjjdXnDKg1ixBu7Lj,Gee Tee,Gee Tee,Hangin' at Caltex,25,112222,False,0.168,0.942,2,0.632,1,0.0548,0.0641,0.969,0.328,0.298,172.527,4,garage
+24660,0LqGUxY5xrFwWFR4SoN1Hx,Omar S;troialexis,Can't Explain,Can't Explain - Omar S and TroiAlexis R&B Mix,20,159474,True,0.795,0.248,7,-19.867,1,0.0775,0.069,2.74e-05,0.111,0.395,123.945,4,detroit-techno
+33660,3xwIAsYcyfte7VLi8fzVkk,surrenderdorothy,WeNeverAskedForThis,UsedCar,57,95786,True,0.568,0.408,11,-15.212,1,0.0345,0.219,0.00508,0.135,0.429,115.035,4,emo
+33737,7xZPwzLC24VRg5HyOBC28K,NX Zero,Fração de Segundo - Single,Fração de Segundo - Versão Acústica,36,194024,False,0.559,0.576,8,-6.631,0,0.028,0.326,0.0,0.0998,0.584,87.085,4,emo
+81737,7mDdR7ynAJuMdkr49AlF1W,Bruno Mars;Anderson .Paak;Silk Sonic,Trending Pop,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+58740,2UsKFVo6oK2yCHo7R1s4Ft,Revolting Cocks,Big Sexy Land,No Devotion,20,412687,False,0.667,0.681,7,-12.684,1,0.0629,0.0944,0.0783,0.444,0.395,127.218,4,industrial
+1521,1QmgrcZquzAfW1OMALh1yb,Lafayette Afro Rock Band,Malik,Conga - Remastered,19,301617,False,0.705,0.83,2,-9.266,1,0.0946,0.0659,0.00445,0.078,0.602,119.099,4,afrobeat
+108411,0i4DD28r4qZ4snbvpBfIUb,Sexteto Mayor,From Argentina To The World,Taconeando,20,227453,False,0.361,0.259,2,-13.516,0,0.0332,0.747,0.278,0.197,0.368,108.489,4,tango
+85136,0vGAY9aloPKORe0R0KlfGv,Siouxsie and the Banshees,Helloween Party,Spellbound,0,197106,False,0.412,0.931,7,-6.348,1,0.0449,0.016,0.0,0.0772,0.295,148.813,4,punk-rock
+69626,7llKkUiIzjfqnBHgRJScqF,Jify,God is Good (Sunday School Song),God is Good - Sunday School Song,25,141609,False,0.623,0.525,5,-8.841,1,0.0489,0.445,0.0,0.156,0.811,170.027,4,malay
+19136,1uM9MucJX0ztob8h3XFakX,Bailey Zimmerman,Single Saturday Night - Country Songs,Fall in Love,0,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+29411,65Ue0jbK1lhMuWc9XfVanh,ILLENIUM;Said The Sky;Rock Mafia,Fallen Embers,Crazy Times,45,230400,True,0.476,0.507,1,-8.058,1,0.0459,0.405,1.13e-05,0.113,0.17,150.204,4,dubstep
+35411,3KkUHYxuE6opdXCxoKh8wH,Washington Brasileiro,Bora,Bora,41,191425,False,0.801,0.955,10,-3.037,0,0.0449,0.213,0.0,0.336,0.876,110.899,4,forro
+80513,3OZr3vo7SmYpn5XqeQEAOM,Yo Yo Honey Singh;Neha Kakkar,The Neha Kakkar Collection,Manali Trance,61,203206,False,0.614,0.842,6,-4.109,1,0.0745,0.00814,1.33e-05,0.212,0.915,156.051,4,pop-film
+38521,49HYB8tppaxOsbBfeozPxu,Arctic Monkeys,Suck It and See,Brick By Brick,53,179906,False,0.285,0.807,2,-4.741,1,0.0528,0.00123,0.00368,0.317,0.542,132.206,4,garage
+36737,3Clq3Nkvml7zX8qbdHyNT9,Djadja & Dinaz,Spleen,Anonymat,33,223466,True,0.765,0.516,11,-10.779,0,0.404,0.216,0.0,0.367,0.55,141.007,4,french
+67411,75G3D1ajCgumVJ7Kun9MbC,Brytiago;Darell,Halloween 2022 Perreo Vol. 3,Olvidando,1,229013,False,0.767,0.672,2,-4.455,0,0.182,0.12,6.18e-05,0.695,0.585,171.996,4,latin
+58411,3zQx7xLSxHE25mR34QTedx,Celldweller,Satellites,Soul Parasites,35,216684,False,0.555,0.792,1,-4.581,1,0.0558,7.16e-05,2.95e-06,0.09,0.786,92.0,3,industrial
+96513,4W3OLec9sTB37yegHQVxOq,Seu Jorge;Racionais MC's,"Musicas para Churrasco, Vol.1 (Ao Vivo) (Delux Edition)",Diário de um Detento (Ao Vivo),38,493373,False,0.484,0.877,10,-5.095,0,0.365,0.758,0.0,0.61,0.586,88.445,4,samba
+66737,3y3thO9GCZxsauTac1Hv1s,Lani Love,Slaying the Runway,Slaying the Runway,8,153808,False,0.756,0.543,9,-5.913,1,0.375,0.274,9.62e-06,0.139,0.437,149.877,4,kids
+80411,3i11e2jzUtO3jChiFl3v9x,Madan Mohan;Lata Mangeshkar;Roop Kumar Rathod;Javed Akhtar,Veer - Zaara,Tere Liye,63,331676,False,0.525,0.46,1,-8.594,0,0.0246,0.826,0.00202,0.139,0.33,98.007,4,pop-film
+76521,191Tg9ZpGyjqP5sLO5gg3V,Emma Shapplin,Etterna,Leonora,21,237240,False,0.295,0.525,9,-8.716,1,0.0425,0.36,0.000102,0.164,0.136,69.014,4,opera
+87626,1u7qEu0bZXGHW6gfOKyRfX,Valentín Elizalde,Íconos 25 Éxitos,A Mis Enemigos,43,183573,False,0.811,0.476,3,-5.281,1,0.0508,0.743,8.19e-05,0.0598,0.97,102.538,3,r-n-b
+4136,6j8KPn7rmbTwlkpEbHcrS1,Ludovico Einaudi,Underwater,Indian Yellow,61,194789,False,0.263,0.009,2,-35.193,1,0.0515,0.995,0.946,0.0881,0.156,68.083,1,ambient
+10513,1FyqKrXoHIYh7Tv7awiUKS,Audio Bullys,Generation,Struck By The Sound,14,304920,False,0.752,0.715,5,-6.443,0,0.0791,0.459,0.0335,0.808,0.574,99.993,4,breakbeat
+5136,708feUe50Ed8N6zilSiSQM,Kiro Akiyama,From DROPOUT,Caffeine,59,243253,False,0.73,0.455,6,-5.467,1,0.0396,0.00372,0.0118,0.0649,0.763,133.996,4,anime
+21521,03EcqaAMg58r10dgbl0o6y,Fuse ODG;Ed Sheeran;Mugeez,Boa Me (feat. Ed Sheeran & Mugeez),Boa Me (feat. Ed Sheeran & Mugeez),53,180500,False,0.906,0.597,0,-2.566,1,0.0764,0.165,2.94e-06,0.0775,0.967,124.008,4,dancehall
+32660,2RoTe14GxtkU0ZzCgKys5X,Multani,Old World Songs in a New World Order,Kalyan,25,187684,False,0.763,0.414,1,-11.165,1,0.0845,0.0829,0.637,0.0552,0.498,125.0,4,electronic
+79660,16GUMo6u3D2qo9a19AkYct,Billy Joel,The Stranger (Legacy Edition),Movin' Out (Anthony's Song),67,210760,False,0.664,0.88,2,-5.009,0,0.0326,0.465,1.63e-05,0.0591,0.895,133.898,4,piano
+31136,434VcYrm3FPRRiW4jw5nLb,Wisin & Yandel;Chris Brown;T-Pain,Fiesta portatil,Algo Me Gusta De Ti,2,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,electro
+107411,7G4aD9GSe262y5lisfaIGy,Tove Lo,True Romance,True Romance,57,245708,False,0.477,0.319,0,-7.757,1,0.0302,0.5,1.1e-05,0.111,0.0853,104.937,4,synth-pop
+43740,4KQh6eo7wbwyI9C5HoF8xK,Trazendo a Arca,Deus de Promessas (Ao Vivo),Bendito Eu Serei - Ao Vivo,25,842906,False,0.335,0.729,7,-8.078,0,0.0811,0.42,0.0,0.72,0.451,143.378,4,groove
+100136,1RDWiY1IHfMzXAhbBMYwb6,Kapanga,A 15 Cm De La Realidad,Amor Secreto,44,222426,False,0.54,0.803,0,-6.984,0,0.0476,0.00214,7.37e-06,0.052,0.725,141.497,4,ska
+60678,3CfewRPe6r9AFCjOkwUzWi,Vybz Kartel,Nice Suh,Nice Suh,20,161632,False,0.626,0.676,9,-7.241,1,0.361,0.0234,0.0,0.128,0.373,195.932,4,j-dance
+55513,4mYrbFGkk5u3bnDhTj0jAO,Jasleen Royal,Shivaay,Raatein,49,225875,False,0.653,0.401,5,-12.029,1,0.0279,0.893,0.143,0.109,0.311,129.988,4,indian
+39521,5LXaBBZePqShzKxM6b9RFU,Kyau & Albert,ASOT 1090 - A State Of Trance Episode 1090,Velvet Morning 22 (ASOT 1090),41,137625,False,0.479,0.946,10,-7.859,0,0.0388,0.000548,0.261,0.136,0.0381,125.487,4,german
+99626,0HLWvLKQWpFdPhgk6ym58n,John Mayer,Battle Studies,Who Says,64,175480,False,0.584,0.509,2,-13.109,1,0.0287,0.267,0.00252,0.36,0.367,90.457,4,singer-songwriter
+20136,4eoMx75WWJVa0Q6lO3Q0zS,Bruno Mars;PARTYNEXTDOOR,Pop Station,That's What I Like - PARTYNEXTDOOR Remix,0,206696,False,0.741,0.695,1,-5.341,1,0.0454,0.021,0.0,0.0922,0.861,134.032,4,dance
+40678,0OB1ZDOdFgcDvdJygCfIh5,Trio Nascimento,Marque Uma Geração,Chegou o Avivamento,40,273298,False,0.508,0.625,0,-6.433,1,0.0362,0.499,0.0,0.099,0.34,143.923,4,gospel
+41660,5NuELzFROpg4Br5lQZ6zNw,Specimen,Wet Warm Cling Film Red Velvet Crush,Lovers,22,184040,False,0.604,0.596,0,-7.705,1,0.0251,4.48e-05,6.11e-06,0.352,0.366,130.683,4,goth
+8660,1kmbMgdH81XirPnEuGQ2by,Blues Saraceno,Dark Country 4,The River,55,215699,False,0.554,0.437,11,-8.187,0,0.0388,0.0526,0.00241,0.241,0.37,73.994,4,blues
+48626,0kqYjKsdQ2UfbkMANcEXou,Samiam,You're Freaking Me Out,Full On,31,227840,False,0.469,0.889,4,-6.097,1,0.0694,0.00195,2.24e-05,0.193,0.895,188.682,4,hardcore
+42521,51s7WZriwg2D51gbCrbNVz,Couple Skate,Couple Skate/Haggus,Belly Full of Toes,13,88607,False,0.285,0.564,1,-12.032,1,0.311,0.00108,0.199,0.181,0.221,148.08,3,grindcore
+93737,4OGTClZTIEwlfFeP0APZww,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть первая,"Эй, ямщик, гони-ка к Яру",0,189080,False,0.355,0.265,5,-18.811,0,0.0393,0.909,0.0,0.146,0.306,99.714,4,romance
+93678,5AbnLCQFNfxyQnXgq7kp5y,Oleg Pogudin,Элегия концерт,Вам не понять моей печали,0,222266,False,0.48,0.119,9,-15.435,0,0.0472,0.933,5e-06,0.592,0.118,77.874,4,romance
+107737,7qOTekcfMJ4wTQGXoJH0ah,New Order;Ctrl Alt Esc,Commencement,Bizarre Love Triangle,26,269906,False,0.66,0.79,10,-5.24,1,0.0358,0.054,0.000611,0.0957,0.331,118.941,4,synth-pop
+42660,46ORcEf64lk1CrM00THv6O,Milking the Goatmachine,Stallzeit,Ace of Spades,13,154466,False,0.369,0.963,2,-4.066,1,0.111,3.74e-05,0.669,0.587,0.215,158.044,4,grindcore
+37513,0H351Cn5b1uS4E4Cg1Jxb5,NAFTA,Nafta,La Carta,48,253161,False,0.797,0.337,5,-10.079,1,0.0696,0.535,0.0,0.114,0.664,130.016,3,funk
+27660,2Ug1U9UQiDL0sabsvcp3kR,S.P.Y,Grey Days / Shadows Of The Mind,Grey Days,17,304296,False,0.379,0.844,2,-4.633,1,0.0489,0.00477,0.923,0.119,0.13,113.348,5,drum-and-bass
+7626,6DWUqItLvXGKTpdwyYUc1N,Town Mountain,Southern Crescent,Southern Crescent,22,211426,False,0.486,0.622,9,-6.516,1,0.0297,0.305,4.32e-05,0.293,0.55,166.941,4,bluegrass
+64136,1LFJLpGF7gexCurvUsjqG9,Ella Fitzgerald,Santa Claus Is Coming To Town,Frosty The Snowman,0,131733,False,0.579,0.502,8,-7.57,1,0.0513,0.733,0.0,0.281,0.836,76.783,4,jazz
+13859,3znnqpwwIseRg3haxuQe2w,Armando,Straight Up Detroit Shit 2013,100% Dissin It,7,50773,False,0.892,0.685,11,-4.404,0,0.267,0.0411,0.928,0.086,0.76,154.9,4,chicago-house
+29737,2GhwDDUHbfHF6YOwm9xilY,FelMax,Chapel,Chapel,38,201562,False,0.601,0.956,2,-3.759,1,0.0349,0.000395,0.877,0.242,0.0389,127.993,4,dubstep
+59859,5gYNIwz1eygjeDnVCV8sCP,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,Nights,0,311132,False,0.542,0.946,8,-11.342,1,0.0673,0.694,0.914,0.504,0.039,120.012,4,iranian
+83521,2mQ7KmAI8gFLH3baaDXc6o,Calvin Harris;Disciples;DJ Snake,How Deep is Your Love (DJ Snake Remix),How Deep is Your Love - DJ Snake Remix,41,222400,False,0.616,0.903,9,-0.475,1,0.0938,0.015,0.00102,0.141,0.446,149.93,4,progressive-house
