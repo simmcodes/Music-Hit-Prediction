@@ -1,0 +1,31 @@
+{
+  "dataset_size": 300,
+  "num_features": 16,
+  "num_hits": 8,
+  "num_not_hits": 292,
+  "dt_accuracy": 0.9666666666666667,
+  "rf_accuracy": 0.9833333333333333,
+  "best_model": "Random Forest",
+  "top_features": [
+    {
+      "feature": "lastfm_playcount",
+      "importance": 0.14301446760942146
+    },
+    {
+      "feature": "visibility_score",
+      "importance": 0.11302479998947307
+    },
+    {
+      "feature": "lastfm_listeners",
+      "importance": 0.11197715160434082
+    },
+    {
+      "feature": "artist_followers",
+      "importance": 0.10843696866409924
+    },
+    {
+      "feature": "speechiness",
+      "importance": 0.07008232058860983
+    }
+  ]
+}
